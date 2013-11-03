@@ -1,4 +1,4 @@
-SpringJDBC
-==========
+SPRING-HIBERNATE
+================
 
-JAVA WEB AVANZADO
+03-11-2013
